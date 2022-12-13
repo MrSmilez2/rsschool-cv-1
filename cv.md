@@ -7,6 +7,7 @@
     E-mail: <wanton92@gmail.com>
     Telegram: [@wanton92](https://t.me/wanton92)
     [VKldkvjslkvj](https://google.com)
+    [SOme shit](https://www.google.com/)
     Discord RSSchool: sqquirrel(@sqquirrel)
 
 ## Briefly about myself
