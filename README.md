@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/sqquirrel/rsschool-cv/cv
