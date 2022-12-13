@@ -1,1 +1,1 @@
-https://github.com/sqquirrel/rsschool-cv/cv
+https://github.com/sqquirrel/rsschool-cv/cv.md
