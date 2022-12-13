@@ -15,11 +15,13 @@
 Git
 
 ## Code example
+```
 
 function multiply(a, b){
   a * b
 return (a*b)
 }
+```
 
 ## Education
 Vitebsk State Technological University, **engineer-economist in light industry**
